@@ -15,3 +15,8 @@
   background-color: #1e2818;
   color: #b9f294;
 }
+
+.btn-primary:active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover {
+  background-color: #b9f294;
+  color: #1e2818;
+}
