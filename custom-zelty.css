@@ -34,6 +34,8 @@
 
 .tag_list .active a.nobg .lab, .tag_list a:hover.nobg .lab {
   background-color: #b9f294;
+  text-shadow: none;
+  color: #1e2818;
 }
 
 #zmodal .modal-header {
