@@ -1,0 +1,7 @@
+.items_list li a {
+    color:pink;
+  }
+
+.items_list li .price {
+    color: pink;
+}
