@@ -47,4 +47,8 @@
   color: #1e2818;
 }
 
+.delivery:hover, .takeaway:hover {
+  background-color: #b9f294;
+}
+
 /* ========== TONTONS BURGER ========== */
