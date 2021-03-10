@@ -16,6 +16,7 @@
 .btn-primary {
   background-color: #1e2818;
   color: #b9f294;
+  border: none;
 }
 
 .btn-primary:active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover {
