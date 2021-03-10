@@ -13,13 +13,13 @@
   color: #b9f294;
 }
 
-.btn-primary, .btn-default {
+.btn-primary, .btn-default, .btn-primary.disabled {
   background-color: #1e2818;
   color: #b9f294;
   border: none;
 }
 
-.btn-primary:active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-default:hover, .btn-default:focus {
+.btn-primary:active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .btn-default:hover, .btn-default:focus, .btn-primary.disabled:hover, .btn-primary.disabled:focus {
   background-color: #b9f294;
   color: #1e2818;
 }
