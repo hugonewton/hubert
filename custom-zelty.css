@@ -51,10 +51,11 @@
   background-color: #b9f294;
 }
 
-.alert-danger {
+.alert-danger, .alert-info {
   color: #1e2818;
   background-color: #b9f294;
   border: none;
 }
+
 
 /* ========== TONTONS BURGER ========== */
