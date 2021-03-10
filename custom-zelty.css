@@ -32,4 +32,8 @@
   background-color: #1e2818;
 }
 
+.tag_list .active a.nobg .lab, .tag_list a:hover.nobg .lab {
+  background-color: #b9f294;
+}
+
 /* ========== TONTONS BURGER ========== */
