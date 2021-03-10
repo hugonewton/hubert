@@ -9,3 +9,8 @@
 .restaurant_selection .restaurants .active a, .restaurant_selection .restaurants a:focus, .restaurant_selection .restaurants a:hover {
   background-color: #1e2818;
 }
+
+.btn-primary {
+  background-color: #1e2818;
+  color: #b9f294;
+}
