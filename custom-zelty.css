@@ -4,3 +4,8 @@
   background-color: #fff;
   color: #1e2818;
 }
+
+
+.restaurant_selection .restaurants .active a, {
+  background-color: #1e2818;
+}
